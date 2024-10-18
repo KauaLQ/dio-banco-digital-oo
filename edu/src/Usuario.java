@@ -1,4 +1,3 @@
-package front_end;
 import front_end.funcoes.InterfacesUX;
 
 public class Usuario {
